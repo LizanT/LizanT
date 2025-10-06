@@ -19,7 +19,7 @@ I'm currently looking for new challenges where I can apply these skills.
 ![Static Badge](https://img.shields.io/badge/R-l?logo=r&logoColor=white&labelColor=%23276DC3&color=%23276DC3)
 ![Static Badge](https://img.shields.io/badge/MySQL-l?logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tools & Platforms
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Softwares & Tools. 
 
 ![Static Badge](https://img.shields.io/badge/Github-l?logo=github&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Jupyter-l?logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626)
