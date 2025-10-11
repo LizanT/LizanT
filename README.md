@@ -19,7 +19,7 @@ I'm currently looking for new challenges where I can apply these skills.
 ![Static Badge](https://img.shields.io/badge/R-l?logo=r&logoColor=white&labelColor=%23276DC3&color=%23276DC3)
 ![Static Badge](https://img.shields.io/badge/MySQL-l?logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> ***Softwares & Tools.*** 
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> ***Softwares & Tools.*** 
 
 ![Static Badge](https://img.shields.io/badge/Github-l?logo=github&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Jupyter-l?logo=jupyter&logoColor=white&labelColor=%23F37626&color=%23F37626)
@@ -45,7 +45,7 @@ I'm currently looking for new challenges where I can apply these skills.
   </a>
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> ***Connect with me***
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p align="center">
 	<a href="mailto:lizntal@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/LizanT"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=Github&logoColor=white" alt="GitHub"/></a>
