@@ -38,6 +38,8 @@ I'm currently looking for new challenges where I can apply these skills.
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SEABORN](https://img.shields.io/badge/SEABORN-%23E20000.svg?style=for-the-badge&logoColor=black&labelColor=blue&color=blue)
+
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
